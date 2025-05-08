@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Project_H.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Project_H.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Project_HEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\UpgradeLog.htm" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Project_H">
+      <UniqueIdentifier>{025ED775-5341-397C-B45B-290044744BE2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Project_H\Main_Instance.cpp">
+      <Filter>Source\Project_H</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project_H\Main_Instance.h">
+      <Filter>Source\Project_H</Filter>
+    </ClCompile>
+    <None Include="..\..\Source\Project_H\Project_H.Build.cs">
+      <Filter>Source\Project_H</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Project_H\Project_H.cpp">
+      <Filter>Source\Project_H</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project_H\Project_H.h">
+      <Filter>Source\Project_H</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project_H\Project_HCharacter.cpp">
+      <Filter>Source\Project_H</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project_H\Project_HCharacter.h">
+      <Filter>Source\Project_H</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project_H\Project_HGameMode.cpp">
+      <Filter>Source\Project_H</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project_H\Project_HGameMode.h">
+      <Filter>Source\Project_H</Filter>
+    </ClCompile>
+    <Filter Include="Source\Project_H\Util">
+      <UniqueIdentifier>{F0FC4FB6-FC97-39C8-A018-8627D8797933}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Project_H\Util\MainInstance.cpp">
+      <Filter>Source\Project_H\Util</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project_H\Util\MainInstance.h">
+      <Filter>Source\Project_H\Util</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

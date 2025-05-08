@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\hamelln\\project_h\\intermediate\\build\\win64\\unrealeditor\\inc\\project_h\\uht\\project_h.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\hamelln\\project_h\\intermediate\\build\\win64\\x64\\project_heditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\hamelln\\project_h\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\project_h\\definitions.project_h.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
